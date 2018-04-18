@@ -6,7 +6,7 @@
 
 # What is it? 🤔
 
-A barebones 3-4kb implementation of [react-spring](https://github.com/drcmda/react-spring). It contains the spring mathematics, the Spring primitive, and support for raw, numerical values or arrays. It will not understand colors, paths, strings, units, etc. Use this for applications that can get away with numerical animations (which you can still interpolate into anything you like) and basics springs.
+A barebones 3-4kb implementation of [react-spring](https://github.com/drcmda/react-spring). It contains the spring mathematics, the Spring primitive, and support for raw, numerical values or arrays. It will not understand colors, paths, strings, units, etc. Use this for applications that can get away with numerical animations (which you can still interpolate into anything you like) and basic springs.
 
 #### Use it like always
 
