@@ -18,7 +18,7 @@ import { Spring } from 'react-spring-numerical'
 ReactDOM.render(
   <Spring from={{ opacity: 0 }} to={{ opacity: 1 }}>
     {props => <div style={props}>hello</div>}
-  </div>,
+  </Spring>,
   document.getElementById('root')
 )
 ```
@@ -34,7 +34,7 @@ const AnimatedDiv = createAnimatedComponent('div')
 
 <Spring native from={{ opacity: 0 }} to={{ opacity: 1 }}>
   {props => <AnimatedDiv style={props}>hello</AnimatedDiv>}
-</div>,
+</Spring>,
 ```
 
 #### Custom interpolators
@@ -54,5 +54,5 @@ const AnimatedDiv = createAnimatedComponent('div')
       hello
     </AnimatedDiv>
   )}
-</div>,
+</Spring>,
 ```
