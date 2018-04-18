@@ -1,6 +1,6 @@
 {
   "name": "react-spring-numerical",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Animate React with ease",
   "main": "dist/react-spring-numerical.cjs.js",
   "module": "dist/react-spring-numerical.es.js",
