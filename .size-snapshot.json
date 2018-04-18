@@ -1,16 +1,16 @@
 {
   "dist/react-spring-numerical.es.js": {
-    "bundled": 32115,
-    "minified": 14590,
-    "gzipped": 3903,
+    "bundled": 32110,
+    "minified": 14585,
+    "gzipped": 3897,
     "treeshaked": {
-      "rollup": 12093,
-      "webpack": 12923
+      "rollup": 12088,
+      "webpack": 12918
     }
   },
   "dist/react-spring-numerical.umd.js": {
-    "bundled": 34903,
-    "minified": 14475,
-    "gzipped": 4216
+    "bundled": 34898,
+    "minified": 14470,
+    "gzipped": 4209
   }
 }

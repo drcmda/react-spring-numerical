@@ -55,7 +55,7 @@ class Spring extends React.PureComponent {
   }
 
   componentWillMount() {
-    this.updatePropsAsync(this.props)
+    this.updateProps(this.props)
   }
 
   componentWillReceiveProps(props) {
