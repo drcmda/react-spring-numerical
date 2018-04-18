@@ -180,7 +180,6 @@ class Spring extends React.PureComponent {
 
   render() {
     const { children, render } = this.props
-    const values = this.getAnimatedValues()
     const animatedProps = {
       ...this.getAnimatedValues(),
       ...this.getForwardProps(),
